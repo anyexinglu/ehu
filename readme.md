@@ -20,6 +20,8 @@
 > 
 > node ../../ehu/bin/ehu.js -n
 
+*上面是各自启动两个服务*
+
 1. chrome://net-internals/#hsts 中将localhost.bcetest.baidu.com删除
 2. 访问热更新地址：http://localhost.bcetest.baidu.com:8844/iot/?ed&no_xss&locale=zh-cn#
 3. 原 https://localhost.bcetest.baidu.com:port 和原来一样访问，不受esl-hot-update影响
