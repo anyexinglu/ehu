@@ -1,7 +1,7 @@
 ## 针对Console/Osp对应模块的热更新
 * 配置ehu.config（举例iot，放在tools下）
 
-```{
+```
     "defaultServer": "正常启动的链接地址",
     "defaultServerCLI": "正常启动的bash",
     "baseDir": "../src/iot",
@@ -11,6 +11,7 @@
     "module": "/iot",
     "port": 8844
 ```
+
 例子见代码中的console-ehu.config 和 osp-ehu.config
 ## 启动
 > cd console/tools
