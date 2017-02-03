@@ -15,7 +15,9 @@
 例子见代码中的console-ehu.config 和 osp-ehu.config
 ## 启动
 > cd console/tools
+> 
 > server.sh
+> 
 > node ../../ehu/bin/ehu.js -n
 
 访问热更新地址：http://localhost.bcetest.baidu.com:8844/iot/?ed&no_xss&locale=zh-cn#
