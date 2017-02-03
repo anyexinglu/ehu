@@ -16,7 +16,7 @@
 ## 启动
 > cd console/tools
 > 
-> server.sh
+> ./server.sh
 > 
 > node ../../ehu/bin/ehu.js -n
 
